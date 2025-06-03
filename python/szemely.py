@@ -20,3 +20,4 @@ print("7. Objektum módosítása:")
 szemely.email = "janos@pelda.hu"  # új tulajdonság hozzáadása
 szemely.kor = 26  # tulajdonság módosítása
 print(f"Módosított szemely: {szemely.__dict__}") 
+

@@ -71,3 +71,7 @@ console.log("-------------------");
 console.log("5. Könyv keresése:");
 const keresettKonyv = konyvtar.konyvKeres("JavaScript alapok");
 console.log("Keresett könyv:", keresettKonyv); 
+
+
+
+
